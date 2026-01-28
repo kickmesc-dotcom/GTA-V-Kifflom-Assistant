@@ -15,13 +15,13 @@ This program emulates standard hardware inputs (**Move Forward + Sprint + Mouse 
 It does not inject code into GTA V or modify memory. By simulating a "legit" 
 circular run, it allows you to complete the 5-mile requirement using the 
 game's actual movement logic.
+![exercising-the-truth-2-2edited](https://github.com/user-attachments/assets/21127cd1-5918-4c5b-896e-9641e73e88c4)
 
 ## Features
 * **Precise Orbit Mode:** Smooth 360° rotation using Win32API (no jerky camera).
 * **Live Telemetry:** Real-time stopwatch (ms precision) and mile counter.
 * **Smart Safety:** Emergency **ESC** stop and automatic key release.
 * **Clean UI:** Styled after the Epsilon Program's aesthetic.
-![exercising-the-truth-2-2edited](https://github.com/user-attachments/assets/21127cd1-5918-4c5b-896e-9641e73e88c4)
 
 ---
 
