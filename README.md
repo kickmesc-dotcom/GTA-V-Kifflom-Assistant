@@ -26,6 +26,7 @@ Deliver the Truth without the tedious 28-minute desert run. This tool handles th
 4. **Activate:** Press `CTRL + SHIFT + ENTER` to start the run.
 5. **Monitor:** Use a second monitor to watch the timer.
 6. **Stop:** Alt-Tab to the app window and press `ESC` to release all keys and exit.
+   ![kifflom-screen](https://github.com/user-attachments/assets/54b5af92-3b20-4ac6-b1cd-61536ece4ff6)
 
 ---
 
