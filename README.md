@@ -44,4 +44,5 @@ If this tool saved your fingers and sanity, consider making a tithe to the Progr
 👉 **[SUPPORT](https://boosty.to/icreatethings)**
 
 *Everything is simple. Kifflom, Brother-Brother!*
-<img width="1920" height="1080" alt="Grand Theft Auto V Screenshot 2026 01 27 - 10 45 49 38" src="https://github.com/user-attachments/assets/1b8c290b-19b3-4142-8227-ba05e3d98288" />
+![kifflom-tractor](https://github.com/user-attachments/assets/3c64eb66-7e99-4d73-aa4f-14c7773ecf73)
+
