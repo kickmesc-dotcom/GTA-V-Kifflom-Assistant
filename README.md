@@ -50,5 +50,6 @@ If this tool saved your fingers and sanity, consider making a tithe to the Progr
 👉 **[SUPPORT](https://boosty.to/icreatethings)**
 
 *Everything is simple. Kifflom, Brother-Brother!*
+
 ![kifflom-tractor](https://github.com/user-attachments/assets/b1da7300-87d0-4158-94b1-7c1d773800a4)
 
