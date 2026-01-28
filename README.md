@@ -6,6 +6,9 @@ Automated utility for the Epsilon Program "Exercising the Truth" mission in Gran
 
 Deliver the Truth without the tedious 28-minute desert run. This tool handles the movement while you track your progress in real-time.
 
+<img width="1920" height="1080" alt="Grand Theft Auto V Screenshot 2026 01 26 - 11 52 30 02" src="https://github.com/user-attachments/assets/9a393365-c362-4074-aac4-b4bc85b3c75a" />
+
+
 ---
 
 ## Features
@@ -40,3 +43,4 @@ If this tool saved your fingers and sanity, consider making a tithe to the Progr
 👉 **[SUPPORT](https://boosty.to/icreatethings)**
 
 *Everything is simple. Kifflom, Brother-Brother!*
+<img width="1920" height="1080" alt="Grand Theft Auto V Screenshot 2026 01 27 - 10 45 49 38" src="https://github.com/user-attachments/assets/1b8c290b-19b3-4142-8227-ba05e3d98288" />
