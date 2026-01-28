@@ -21,6 +21,7 @@ game's actual movement logic.
 * **Live Telemetry:** Real-time stopwatch (ms precision) and mile counter.
 * **Smart Safety:** Emergency **ESC** stop and automatic key release.
 * **Clean UI:** Styled after the Epsilon Program's aesthetic.
+![exercising-the-truth-2-2edited](https://github.com/user-attachments/assets/21127cd1-5918-4c5b-896e-9641e73e88c4)
 
 ---
 
@@ -49,5 +50,5 @@ If this tool saved your fingers and sanity, consider making a tithe to the Progr
 👉 **[SUPPORT](https://boosty.to/icreatethings)**
 
 *Everything is simple. Kifflom, Brother-Brother!*
-![kifflom-tractor](https://github.com/user-attachments/assets/3c64eb66-7e99-4d73-aa4f-14c7773ecf73)
+![kifflom-tractor](https://github.com/user-attachments/assets/b1da7300-87d0-4158-94b1-7c1d773800a4)
 
