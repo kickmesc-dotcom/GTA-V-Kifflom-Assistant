@@ -10,6 +10,11 @@ Deliver the Truth without the tedious 28-minute desert run. This tool handles th
 
 
 ---
+## 🛠 How it works
+This program emulates standard hardware inputs (**Move Forward + Sprint + Mouse Look**). 
+It does not inject code into GTA V or modify memory. By simulating a "legit" 
+circular run, it allows you to complete the 5-mile requirement using the 
+game's actual movement logic.
 
 ## Features
 * **Precise Orbit Mode:** Smooth 360° rotation using Win32API (no jerky camera).
